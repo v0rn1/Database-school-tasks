@@ -1,2 +1,2 @@
 # Database-school-tasks-
-The sc
+Assignments from the technical school that I did
