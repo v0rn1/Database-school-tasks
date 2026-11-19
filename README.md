@@ -1,4 +1,3 @@
-# Database-school-tasks
 # Microsoft Access – School Projects
 
 A collection of school assignments, exercises and tests related to database management using Microsoft Access.
